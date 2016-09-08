@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Game">
+    <Position X="2.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAACAAAAAAgACAQAAAAAAiAIAIABIAAAIAIAgg=</HashCode>
+      <FileName>game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rectangle">
+    <Position X="0.5" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>gAAAQBAAAAAAAAABAAQAAAAAAAAgAACCAAAgAAAAAAA=</HashCode>
+      <FileName>rectangle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shape">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>shape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Square">
+    <Position X="0.5" Y="6" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAEAAAAAAAAAAAAAAAAAAAAACAAAgAAgAAAA=</HashCode>
+      <FileName>square.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SurfaceManager">
+    <Position X="2.75" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQACAAAAAAAAABAAAACAAAAAAAAAAIAAAQEAAQ=</HashCode>
+      <FileName>surfaceManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextureManager">
+    <Position X="4.75" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAABAAAAgAABAAAAAIABAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>textureManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Viewports">
+    <Position X="8.25" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAEAAAEAAAAAAAAAAAAAAiAAAAAABAAAAAA=</HashCode>
+      <FileName>rectangle.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RGBA">
+    <Position X="8.25" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAGgAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>square.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="KeyPressSurfaces">
+    <Position X="8.25" Y="7" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAIA=</HashCode>
+      <FileName>surfaceManager.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Textures">
+    <Position X="8.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAQABAAAAAAAAAAAAAAAAACAAAAAAAAQAA=</HashCode>
+      <FileName>textureManager.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
