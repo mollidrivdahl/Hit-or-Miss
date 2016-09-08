@@ -1,20 +1,11 @@
-﻿Build started 11/25/2015 11:08:13 PM.
-     1>Project "C:\Users\Molli\Documents\GitHub\CST-136\CST 136_Lab 2_Drivdahl_Molli\Game_CST_136\Game_CST_136.vcxproj" on node 2 (Build target(s)).
-     1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt game.cpp
-         game.cpp
-       Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Molli\Documents\GitHub\CST-136\CST 136_Lab 2_Drivdahl_Molli\Debug\Game_CST_136.exe" /INCREMENTAL /NOLOGO SDL2.lib SDL2main.lib SDL2_image.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Molli\Documents\GitHub\CST-136\CST 136_Lab 2_Drivdahl_Molli\Debug\Game_CST_136.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Molli\Documents\GitHub\CST-136\CST 136_Lab 2_Drivdahl_Molli\Debug\Game_CST_136.lib" /MACHINE:X86 Debug\button.obj
-         Debug\main.obj
-         Debug\game.obj
-         Debug\quadrilateral.obj
-         Debug\rectangle.obj
-         Debug\square.obj
-         Debug\surfaceManager.obj
-         Debug\textureManager.obj
-         Game_CST_136.vcxproj -> C:\Users\Molli\Documents\GitHub\CST-136\CST 136_Lab 2_Drivdahl_Molli\Debug\Game_CST_136.exe
-     1>Done Building Project "C:\Users\Molli\Documents\GitHub\CST-136\CST 136_Lab 2_Drivdahl_Molli\Game_CST_136\Game_CST_136.vcxproj" (Build target(s)).
-
-Build succeeded.
-
-Time Elapsed 00:00:04.42
+﻿  textureManager.cpp
+  surfaceManager.cpp
+  square.cpp
+  rectangle.cpp
+  quadrilateral.cpp
+  game.cpp
+  main.cpp
+  button.cpp
+  Generating Code...
+MSVCRTD.lib(cinitexe.obj) : warning LNK4098: defaultlib 'msvcrt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Game_CST_136.vcxproj -> C:\Users\Molli\Documents\GitHub\cst_136\Hit-or-Miss\CST 136_Lab 2_Drivdahl_Molli\Debug\Game_CST_136.exe
