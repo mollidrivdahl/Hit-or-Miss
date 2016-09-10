@@ -11,3 +11,19 @@ This program was written in C++ using Microsoft Visual Studio 2013. Additionally
 To run this program, one must open this project in Visual Studio and "Start Without Debugging." Please note that the SDL 2.0 library must be installed on the machine and Visual Studio must be told where to find the SDL include directories and SDL library directories.<br />
 
 <b>Screenshots:<b><br />
+
+<img src= "/img/startScreen.PNG" width="500" height="300">
+<br />
+Beginning screen before the player clicks "Start"
+
+<img src= "/img/movingTarget.PNG" width="500" height="300">
+<br />
+Moving square target at the top (player has not shot the rectangle at the target)
+
+<img src= "/img/shootingMiss.PNG" width="500" height="300">
+<br />
+Rectangle shot at the moving square target and missed
+
+<img src= "/img/winningScreen.PNG" width="500" height="300">
+<br />
+Winning screen when the rectangle hits the moving square target
