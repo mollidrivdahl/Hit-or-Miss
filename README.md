@@ -10,7 +10,7 @@ This program was written in C++ using Microsoft Visual Studio 2013. Additionally
 <b>Execution Instructions:</b><br />
 To run this program, one must open this project in Visual Studio and "Start Without Debugging." Please note that the SDL 2.0 library must be installed on the machine and Visual Studio must be told where to find the SDL include directories and SDL library directories.<br />
 
-<b>Screenshots:<b><br />
+<b>Screenshots:</b><br />
 
 <img src= "/img/startScreen.PNG" width="500" height="300">
 <br />
